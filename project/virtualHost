@@ -1,0 +1,14 @@
+<VirtualHost *:80>
+  ServerAlias shopping.local
+  ServerName shopping.local
+  DocumentRoot "/home/yasmin/shopping/web"
+  <Directory "/home/yasmin/shopping/web">
+    Require all granted
+    AllowOverride All
+    Allow from All
+  </Directory>
+</VirtualHost>
+
+
+127.0.0.1       shopping.local
+

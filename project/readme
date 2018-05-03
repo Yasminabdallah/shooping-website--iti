@@ -1,0 +1,22 @@
+
+Please import database ‘shopping’ .
+control panel for admin : http://localhost/shopping/admin/
+username : root
+passward : 1234567
+             -------------------------------------------------------------------------
+for shop : 
+username : mai ahmed
+passward :1234567
+             -------------------------------------------------------------------------
+ADMIN : completely control panel (add user ,edit user ,add item according to category ,edit item 
+ )
+             -------------------------------------------------------------------------
+USER : can search for items , edit profile ,  add item (doesn't appear without approval from admin )
+ , can add items to his cart and checkout, logout  )
+             -------------------------------------------------------------------------
+GUEST : can show items or category can search for item, can sign up , can't add comment or add item 
+ or add item to cart and checkout 
+               -------------------------------------------------------------------------
+ITEMS  : filters by category 
+               ------------------------------------------------------------------------
+Bouns: i do edit and delete item (by admin) and i dont do rating on product .
